@@ -1,1 +1,1 @@
-my second git project
+use it only for this task
